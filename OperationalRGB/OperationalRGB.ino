@@ -1,5 +1,10 @@
-//for common anode rgb led
-// 2^3 POSSIBILITIES
+/*
+ Created Aug 31 2015
+ By Kelsi Blauvelt
+
+ OperationalRGB
+ Improved program to loop through all colors of common anode RGB LED
+*/
 
 int REDPin = 6;    // RED pin of the LED to PWM pin 4
 int GREENPin = 5;  // GREEN pin of the LED to PWM pin 5
